@@ -1,0 +1,8 @@
+.footer {
+    background-color: var(--cor-roxo-banner);
+    text-align: center;
+}
+
+.footer img {
+    max-width: 100%;
+}
